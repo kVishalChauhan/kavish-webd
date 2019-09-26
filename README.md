@@ -1,2 +1,0 @@
-# kavish-webd
-web designing
